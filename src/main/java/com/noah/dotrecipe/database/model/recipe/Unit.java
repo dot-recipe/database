@@ -1,4 +1,5 @@
 package com.noah.dotrecipe.database.model.recipe;
 
-public class Unit {
+public enum Unit {
+  GRAM, MILLILITER
 }
